@@ -1,2 +1,3 @@
-# waya-s_issues
-所謂ToDo。
+# waya's的issues
+いわゆるToDoや資料置き場的な感じで使う予定。  
+それ以外の活用方法は何も考えてない
